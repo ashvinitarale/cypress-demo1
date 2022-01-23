@@ -1,0 +1,21 @@
+{
+  "name": "REST-API-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.21",
+    "@types/mocha": "^8.2.2",
+    "cypress": "^6.8.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "neat-csv": "^6.0.1"
+  }
+}
